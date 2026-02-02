@@ -1,3 +1,4 @@
-export { Timeline } from "./Timeline";
-export { TimelineItem } from "./TimelineItem";
-export { TimelineMedia } from "./TimelineMedia";
+export * from "./Timeline";
+export * from "./TimelineItem";
+export * from "./TimelineMedia";
+export * from "./TimelineProvider";

@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "lib": ["DOM", "ES2020"],
+    "strict": true
+  },
+  "include": ["packages", "examples"]
+}
